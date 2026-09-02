@@ -1,0 +1,201 @@
+student_id,name,program,degree,semester,year,section,email,phone,date_of_birth,attendance_pct,cgpa,fee_status,fee_due,library_books,hostel
+MITRC00001,Kavya Verma,Computer Science,M.Tech,4,2,A,kavya.verma1@mitrc.ac.in,9249827706,2006-02-22,87.6,7.85,Partially Paid,60000,0,Yes
+MITRC00002,Vivaan Singh,Electronics,B.Tech,4,2,C,vivaan.singh2@mitrc.ac.in,9797808098,2006-09-14,64.7,8.03,Paid,0,1,No
+MITRC00003,Sai Kumar,Electronics,B.Tech,6,3,A,sai.kumar3@mitrc.ac.in,9199585092,2004-02-12,92.3,8.1,Paid,0,5,No
+MITRC00004,Diya Verma,Civil,B.Tech,5,3,C,diya.verma4@mitrc.ac.in,9764130526,2003-10-07,86.0,5.7,Paid,0,2,Yes
+MITRC00005,Riya Singh,Computer Science,M.Tech,5,3,B,riya.singh5@mitrc.ac.in,9782560971,2003-03-12,70.6,8.38,Partially Paid,15000,4,Yes
+MITRC00006,Diya Chauhan,Electronics,B.Tech,8,4,B,diya.chauhan6@mitrc.ac.in,9389854268,2006-12-18,64.7,6.89,Paid,0,1,Yes
+MITRC00007,Priya Patel,Civil,M.Tech,2,1,A,priya.patel7@mitrc.ac.in,9709004943,2006-06-07,83.8,7.2,Partially Paid,60000,1,No
+MITRC00008,Aditya Singh,Data Science,M.Tech,7,4,C,aditya.singh8@mitrc.ac.in,9528853029,2003-04-05,77.4,5.89,Paid,0,0,Yes
+MITRC00009,Kavya Gupta,Data Science,M.Tech,2,1,B,kavya.gupta9@mitrc.ac.in,9509760584,2005-08-17,66.1,7.88,Paid,0,5,Yes
+MITRC00010,Kavya Joshi,Mechanical,M.Tech,2,1,B,kavya.joshi10@mitrc.ac.in,9566825638,2002-08-01,97.0,9.27,Pending,30000,4,Yes
+MITRC00011,Riya Rao,Mechanical,B.Tech,3,2,B,riya.rao11@mitrc.ac.in,9918739736,2002-09-25,95.6,9.45,Partially Paid,45000,3,Yes
+MITRC00012,Vivaan Patel,Mechanical,B.Tech,1,1,A,vivaan.patel12@mitrc.ac.in,9709194872,2001-02-24,76.4,5.8,Partially Paid,30000,1,No
+MITRC00013,Diya Gupta,Mechanical,M.Tech,4,2,C,diya.gupta13@mitrc.ac.in,9910959828,2006-12-07,86.4,7.22,Partially Paid,45000,3,No
+MITRC00014,Vivaan Singh,Electronics,B.Tech,6,3,A,vivaan.singh14@mitrc.ac.in,9731691672,2005-04-19,64.7,5.81,Partially Paid,15000,1,Yes
+MITRC00015,Saanvi Sharma,Mechanical,B.Tech,4,2,B,saanvi.sharma15@mitrc.ac.in,9818309417,2004-04-18,60.8,9.52,Partially Paid,60000,1,No
+MITRC00016,Priya Reddy,Electronics,B.Tech,2,1,C,priya.reddy16@mitrc.ac.in,9562837684,2003-07-14,75.5,8.64,Partially Paid,15000,0,No
+MITRC00017,Myra Patel,Computer Science,B.Tech,4,2,A,myra.patel17@mitrc.ac.in,9675832441,2004-03-14,63.1,7.49,Paid,0,3,Yes
+MITRC00018,Aarav Rao,AI & ML,B.Tech,2,1,A,aarav.rao18@mitrc.ac.in,9278575192,2004-08-16,64.4,7.22,Paid,0,1,No
+MITRC00019,Aarav Reddy,Mechanical,M.Tech,5,3,B,aarav.reddy19@mitrc.ac.in,9847959430,2006-09-22,86.6,6.17,Pending,30000,0,Yes
+MITRC00020,Myra Patel,Computer Science,B.Tech,8,4,C,myra.patel20@mitrc.ac.in,9670292350,2002-01-17,58.5,6.3,Partially Paid,15000,5,Yes
+MITRC00021,Reyansh Verma,AI & ML,B.Tech,1,1,C,reyansh.verma21@mitrc.ac.in,9188029013,2004-11-19,79.9,6.86,Pending,30000,5,No
+MITRC00022,Vihaan Kumar,Civil,B.Tech,5,3,B,vihaan.kumar22@mitrc.ac.in,9439492674,2001-01-15,82.3,7.92,Paid,0,0,Yes
+MITRC00023,Diya Kumar,Electronics,M.Tech,2,1,A,diya.kumar23@mitrc.ac.in,9496776692,2003-03-15,91.7,8.53,Partially Paid,15000,5,No
+MITRC00024,Saanvi Rao,Computer Science,B.Tech,5,3,A,saanvi.rao24@mitrc.ac.in,9214929002,2006-09-05,67.0,8.1,Partially Paid,45000,1,No
+MITRC00025,Diya Mehta,Mechanical,B.Tech,2,1,C,diya.mehta25@mitrc.ac.in,9554811020,2003-01-01,69.7,6.06,Pending,30000,5,No
+MITRC00026,Diya Chauhan,Civil,B.Tech,2,1,A,diya.chauhan26@mitrc.ac.in,9841976666,2002-09-02,91.7,8.0,Paid,0,3,Yes
+MITRC00027,Aarav Kumar,Mechanical,B.Tech,6,3,A,aarav.kumar27@mitrc.ac.in,9832363533,2002-11-04,70.6,7.91,Pending,30000,1,Yes
+MITRC00028,Priya Malhotra,Electronics,M.Tech,1,1,A,priya.malhotra28@mitrc.ac.in,9890880074,2003-07-26,84.5,8.66,Paid,0,2,Yes
+MITRC00029,Priya Chauhan,Computer Science,M.Tech,1,1,B,priya.chauhan29@mitrc.ac.in,9338836384,2002-08-12,68.4,8.92,Paid,0,1,Yes
+MITRC00030,Kavya Singh,Civil,M.Tech,5,3,A,kavya.singh30@mitrc.ac.in,9930353157,2003-06-21,77.4,8.42,Partially Paid,45000,0,Yes
+MITRC00031,Saanvi Kumar,Electronics,M.Tech,1,1,A,saanvi.kumar31@mitrc.ac.in,9740563507,2004-06-24,89.6,7.38,Partially Paid,15000,3,Yes
+MITRC00032,Arjun Sharma,Data Science,M.Tech,1,1,C,arjun.sharma32@mitrc.ac.in,9965984448,2005-11-24,96.4,8.67,Paid,0,2,No
+MITRC00033,Vivaan Rao,Mechanical,M.Tech,2,1,C,vivaan.rao33@mitrc.ac.in,9422468580,2005-05-22,73.0,7.23,Pending,30000,1,No
+MITRC00034,Kavya Reddy,Data Science,B.Tech,5,3,B,kavya.reddy34@mitrc.ac.in,9688343096,2001-05-10,64.2,8.88,Partially Paid,45000,3,No
+MITRC00035,Ananya Rao,Electronics,M.Tech,3,2,C,ananya.rao35@mitrc.ac.in,9191048514,2003-09-22,82.8,6.94,Paid,0,5,No
+MITRC00036,Vihaan Malhotra,Electronics,B.Tech,1,1,A,vihaan.malhotra36@mitrc.ac.in,9362897676,2004-10-28,88.8,7.46,Partially Paid,30000,5,No
+MITRC00037,Ananya Reddy,Electronics,B.Tech,1,1,A,ananya.reddy37@mitrc.ac.in,9935822550,2004-04-06,90.4,8.49,Pending,15000,4,Yes
+MITRC00038,Saanvi Verma,Civil,B.Tech,8,4,C,saanvi.verma38@mitrc.ac.in,9670298515,2005-10-11,96.8,9.33,Partially Paid,60000,4,No
+MITRC00039,Saanvi Gupta,Data Science,M.Tech,8,4,B,saanvi.gupta39@mitrc.ac.in,9907214179,2002-11-09,88.7,7.74,Partially Paid,30000,2,No
+MITRC00040,Vivaan Chauhan,Mechanical,B.Tech,5,3,B,vivaan.chauhan40@mitrc.ac.in,9443285529,2005-02-05,61.6,7.15,Paid,0,5,Yes
+MITRC00041,Vivaan Reddy,Civil,M.Tech,8,4,B,vivaan.reddy41@mitrc.ac.in,9166857303,2002-07-13,94.8,8.01,Partially Paid,15000,4,No
+MITRC00042,Ananya Sharma,Mechanical,M.Tech,7,4,B,ananya.sharma42@mitrc.ac.in,9677909930,2006-12-18,90.2,9.36,Pending,30000,2,No
+MITRC00043,Ananya Sharma,Civil,M.Tech,7,4,C,ananya.sharma43@mitrc.ac.in,9277215428,2004-03-20,78.5,9.4,Partially Paid,15000,0,No
+MITRC00044,Aditya Mehta,Electronics,B.Tech,5,3,B,aditya.mehta44@mitrc.ac.in,9451492250,2002-08-11,69.9,9.28,Pending,60000,2,Yes
+MITRC00045,Ananya Sharma,Data Science,B.Tech,6,3,A,ananya.sharma45@mitrc.ac.in,9798086909,2001-11-02,88.2,9.58,Paid,0,0,Yes
+MITRC00046,Vihaan Gupta,Civil,B.Tech,4,2,B,vihaan.gupta46@mitrc.ac.in,9851044796,2003-06-06,81.7,9.64,Partially Paid,15000,1,No
+MITRC00047,Vivaan Nair,Computer Science,M.Tech,7,4,B,vivaan.nair47@mitrc.ac.in,9867741192,2002-02-19,85.4,8.2,Paid,0,5,No
+MITRC00048,Riya Rao,AI & ML,B.Tech,1,1,B,riya.rao48@mitrc.ac.in,9672030854,2004-11-12,58.0,8.28,Paid,0,3,No
+MITRC00049,Vivaan Reddy,Mechanical,M.Tech,3,2,B,vivaan.reddy49@mitrc.ac.in,9289125618,2006-09-21,66.9,8.98,Partially Paid,60000,3,No
+MITRC00050,Riya Chauhan,AI & ML,M.Tech,6,3,A,riya.chauhan50@mitrc.ac.in,9991990632,2001-05-15,65.7,7.5,Partially Paid,60000,2,Yes
+MITRC00051,Ananya Patel,Electronics,M.Tech,4,2,B,ananya.patel51@mitrc.ac.in,9956665975,2003-06-09,93.7,8.52,Pending,15000,4,Yes
+MITRC00052,Vivaan Singh,Data Science,M.Tech,8,4,C,vivaan.singh52@mitrc.ac.in,9914073098,2002-12-16,83.4,7.61,Paid,0,0,No
+MITRC00053,Vihaan Reddy,Data Science,B.Tech,5,3,C,vihaan.reddy53@mitrc.ac.in,9724440558,2003-08-18,78.4,7.33,Partially Paid,45000,2,No
+MITRC00054,Arjun Kumar,Mechanical,B.Tech,2,1,C,arjun.kumar54@mitrc.ac.in,9306785808,2003-02-24,78.6,8.78,Paid,0,1,Yes
+MITRC00055,Myra Mehta,Mechanical,M.Tech,2,1,A,myra.mehta55@mitrc.ac.in,9418092217,2002-06-06,68.3,8.54,Paid,0,2,Yes
+MITRC00056,Aarav Joshi,Mechanical,B.Tech,8,4,A,aarav.joshi56@mitrc.ac.in,9113169872,2005-05-16,76.1,6.97,Paid,0,2,No
+MITRC00057,Vivaan Verma,Civil,M.Tech,2,1,C,vivaan.verma57@mitrc.ac.in,9775862179,2006-01-05,61.6,7.92,Pending,15000,1,Yes
+MITRC00058,Diya Malhotra,Civil,B.Tech,7,4,B,diya.malhotra58@mitrc.ac.in,9575368059,2003-10-14,68.4,8.17,Partially Paid,15000,1,Yes
+MITRC00059,Arjun Rao,Computer Science,B.Tech,4,2,A,arjun.rao59@mitrc.ac.in,9692697161,2001-03-01,73.0,8.46,Pending,45000,0,Yes
+MITRC00060,Arjun Chauhan,Mechanical,M.Tech,2,1,C,arjun.chauhan60@mitrc.ac.in,9350636897,2003-11-19,84.1,9.51,Pending,15000,4,Yes
+MITRC00061,Kavya Gupta,Mechanical,B.Tech,2,1,A,kavya.gupta61@mitrc.ac.in,9278158234,2003-10-24,91.3,9.46,Pending,15000,3,No
+MITRC00062,Myra Reddy,Mechanical,M.Tech,8,4,A,myra.reddy62@mitrc.ac.in,9742136977,2001-07-24,69.2,6.58,Paid,0,1,Yes
+MITRC00063,Priya Rao,Mechanical,B.Tech,3,2,B,priya.rao63@mitrc.ac.in,9657233178,2006-08-09,63.0,8.02,Partially Paid,60000,0,No
+MITRC00064,Sai Reddy,Mechanical,M.Tech,2,1,A,sai.reddy64@mitrc.ac.in,9454123990,2004-12-16,67.7,9.56,Partially Paid,15000,3,Yes
+MITRC00065,Sai Kumar,Mechanical,B.Tech,7,4,C,sai.kumar65@mitrc.ac.in,9985758835,2001-11-28,78.9,7.28,Paid,0,4,No
+MITRC00066,Ishita Malhotra,Civil,M.Tech,1,1,A,ishita.malhotra66@mitrc.ac.in,9386749454,2005-03-10,74.3,8.5,Paid,0,0,Yes
+MITRC00067,Myra Gupta,Mechanical,B.Tech,7,4,A,myra.gupta67@mitrc.ac.in,9341270488,2001-08-04,83.5,6.16,Partially Paid,45000,4,No
+MITRC00068,Reyansh Mehta,Civil,B.Tech,8,4,C,reyansh.mehta68@mitrc.ac.in,9255308128,2004-04-20,77.4,9.28,Paid,0,2,No
+MITRC00069,Sai Malhotra,AI & ML,M.Tech,1,1,B,sai.malhotra69@mitrc.ac.in,9879591310,2003-10-19,99.0,7.61,Paid,0,3,No
+MITRC00070,Sai Patel,AI & ML,M.Tech,8,4,B,sai.patel70@mitrc.ac.in,9302563940,2006-04-19,71.9,9.18,Pending,15000,2,No
+MITRC00071,Myra Malhotra,Civil,M.Tech,3,2,B,myra.malhotra71@mitrc.ac.in,9139749508,2002-09-19,69.6,5.93,Pending,15000,4,No
+MITRC00072,Aarav Chauhan,Electronics,M.Tech,3,2,A,aarav.chauhan72@mitrc.ac.in,9604111692,2003-06-20,85.5,8.29,Pending,60000,2,No
+MITRC00073,Riya Joshi,Computer Science,B.Tech,4,2,C,riya.joshi73@mitrc.ac.in,9834868441,2003-04-24,59.0,9.71,Partially Paid,15000,3,Yes
+MITRC00074,Myra Kumar,Computer Science,B.Tech,6,3,A,myra.kumar74@mitrc.ac.in,9415001254,2003-06-14,61.4,7.78,Partially Paid,30000,1,Yes
+MITRC00075,Vivaan Nair,Civil,B.Tech,8,4,C,vivaan.nair75@mitrc.ac.in,9253671484,2002-08-21,66.2,6.6,Paid,0,3,No
+MITRC00076,Kavya Joshi,Electronics,B.Tech,8,4,B,kavya.joshi76@mitrc.ac.in,9730900313,2003-11-14,85.4,7.46,Pending,30000,3,No
+MITRC00077,Vivaan Singh,Civil,M.Tech,5,3,C,vivaan.singh77@mitrc.ac.in,9417001612,2001-11-13,67.1,7.93,Partially Paid,15000,4,No
+MITRC00078,Riya Kumar,Electronics,M.Tech,4,2,C,riya.kumar78@mitrc.ac.in,9304152670,2005-05-22,88.2,8.8,Partially Paid,30000,5,Yes
+MITRC00079,Saanvi Rao,Data Science,B.Tech,5,3,B,saanvi.rao79@mitrc.ac.in,9135824891,2005-06-24,60.8,9.41,Pending,60000,1,Yes
+MITRC00080,Aditya Malhotra,AI & ML,M.Tech,5,3,A,aditya.malhotra80@mitrc.ac.in,9375919523,2004-05-24,93.3,8.96,Pending,15000,1,Yes
+MITRC00081,Riya Rao,Data Science,M.Tech,6,3,A,riya.rao81@mitrc.ac.in,9948988297,2004-01-09,78.6,7.46,Partially Paid,45000,4,No
+MITRC00082,Riya Rao,Mechanical,B.Tech,4,2,B,riya.rao82@mitrc.ac.in,9126870011,2005-09-11,95.3,6.45,Paid,0,5,No
+MITRC00083,Saanvi Chauhan,Mechanical,M.Tech,2,1,A,saanvi.chauhan83@mitrc.ac.in,9148690765,2001-05-16,60.1,6.51,Partially Paid,30000,3,No
+MITRC00084,Sai Rao,Data Science,M.Tech,3,2,B,sai.rao84@mitrc.ac.in,9803217037,2001-08-20,73.0,9.59,Paid,0,5,No
+MITRC00085,Vihaan Mehta,Civil,B.Tech,6,3,A,vihaan.mehta85@mitrc.ac.in,9836243579,2003-09-21,70.8,7.21,Paid,0,0,No
+MITRC00086,Vivaan Rao,Electronics,B.Tech,1,1,B,vivaan.rao86@mitrc.ac.in,9361530104,2002-10-07,58.0,8.79,Paid,0,4,Yes
+MITRC00087,Riya Singh,Mechanical,B.Tech,1,1,B,riya.singh87@mitrc.ac.in,9255357534,2002-09-09,90.1,5.97,Paid,0,1,Yes
+MITRC00088,Sai Malhotra,Electronics,M.Tech,1,1,A,sai.malhotra88@mitrc.ac.in,9384936197,2001-03-24,73.5,5.99,Paid,0,3,No
+MITRC00089,Priya Patel,AI & ML,B.Tech,8,4,C,priya.patel89@mitrc.ac.in,9337887233,2005-01-24,89.5,9.23,Partially Paid,45000,3,Yes
+MITRC00090,Aarav Mehta,Civil,M.Tech,2,1,B,aarav.mehta90@mitrc.ac.in,9864935082,2004-02-03,69.2,6.14,Paid,0,2,No
+MITRC00091,Reyansh Nair,AI & ML,M.Tech,8,4,C,reyansh.nair91@mitrc.ac.in,9750072069,2004-02-26,85.9,9.17,Partially Paid,30000,3,No
+MITRC00092,Saanvi Singh,Civil,M.Tech,8,4,B,saanvi.singh92@mitrc.ac.in,9546665485,2006-02-11,73.8,8.36,Pending,30000,5,No
+MITRC00093,Vivaan Verma,Computer Science,B.Tech,7,4,A,vivaan.verma93@mitrc.ac.in,9899496315,2006-06-26,60.7,5.76,Partially Paid,45000,5,Yes
+MITRC00094,Reyansh Patel,Data Science,M.Tech,1,1,B,reyansh.patel94@mitrc.ac.in,9744685429,2003-06-04,80.4,6.41,Partially Paid,60000,1,Yes
+MITRC00095,Sai Joshi,Mechanical,B.Tech,5,3,C,sai.joshi95@mitrc.ac.in,9342836476,2004-09-25,91.0,8.14,Partially Paid,15000,4,No
+MITRC00096,Aarav Gupta,Mechanical,M.Tech,6,3,B,aarav.gupta96@mitrc.ac.in,9106556040,2002-03-19,83.9,5.8,Partially Paid,15000,0,Yes
+MITRC00097,Reyansh Reddy,Civil,M.Tech,3,2,B,reyansh.reddy97@mitrc.ac.in,9434618074,2006-06-25,96.4,8.06,Paid,0,1,Yes
+MITRC00098,Priya Nair,Computer Science,B.Tech,5,3,B,priya.nair98@mitrc.ac.in,9810751262,2004-08-20,74.4,6.67,Partially Paid,15000,2,No
+MITRC00099,Vivaan Kumar,Data Science,M.Tech,5,3,A,vivaan.kumar99@mitrc.ac.in,9336779871,2004-10-02,55.3,6.8,Paid,0,1,No
+MITRC00100,Arjun Patel,Computer Science,B.Tech,8,4,C,arjun.patel100@mitrc.ac.in,9562412302,2002-03-13,78.4,6.49,Partially Paid,45000,0,No
+MITRC00101,Riya Chauhan,Computer Science,M.Tech,1,1,B,riya.chauhan101@mitrc.ac.in,9183604337,2003-10-14,80.2,8.55,Pending,45000,0,No
+MITRC00102,Aarav Patel,Electronics,M.Tech,6,3,A,aarav.patel102@mitrc.ac.in,9568915703,2001-04-14,80.9,7.75,Pending,45000,5,No
+MITRC00103,Vihaan Patel,Electronics,B.Tech,2,1,C,vihaan.patel103@mitrc.ac.in,9647556857,2002-06-12,87.0,9.02,Paid,0,1,Yes
+MITRC00104,Aditya Kumar,Electronics,B.Tech,3,2,C,aditya.kumar104@mitrc.ac.in,9180909963,2002-11-16,75.4,7.92,Partially Paid,60000,5,No
+MITRC00105,Riya Rao,Mechanical,B.Tech,8,4,A,riya.rao105@mitrc.ac.in,9603500181,2004-11-10,90.0,8.04,Pending,15000,2,No
+MITRC00106,Ananya Sharma,Computer Science,M.Tech,5,3,A,ananya.sharma106@mitrc.ac.in,9792205349,2001-10-20,77.3,7.49,Partially Paid,15000,3,Yes
+MITRC00107,Sai Nair,Civil,B.Tech,1,1,B,sai.nair107@mitrc.ac.in,9211134294,2003-12-03,77.2,6.24,Paid,0,5,No
+MITRC00108,Ananya Joshi,AI & ML,B.Tech,6,3,B,ananya.joshi108@mitrc.ac.in,9403754671,2004-07-25,69.9,8.07,Partially Paid,45000,0,No
+MITRC00109,Vivaan Joshi,Data Science,M.Tech,5,3,B,vivaan.joshi109@mitrc.ac.in,9877103091,2006-10-28,61.6,5.85,Partially Paid,30000,2,No
+MITRC00110,Kavya Chauhan,Data Science,M.Tech,3,2,C,kavya.chauhan110@mitrc.ac.in,9861104727,2001-05-18,71.6,8.9,Paid,0,5,Yes
+MITRC00111,Kavya Rao,Civil,M.Tech,1,1,B,kavya.rao111@mitrc.ac.in,9431642423,2002-04-11,96.7,7.59,Paid,0,1,Yes
+MITRC00112,Vivaan Kumar,Computer Science,B.Tech,6,3,C,vivaan.kumar112@mitrc.ac.in,9240712839,2005-07-05,62.1,9.07,Partially Paid,30000,5,No
+MITRC00113,Aarav Reddy,Mechanical,B.Tech,8,4,C,aarav.reddy113@mitrc.ac.in,9405939035,2006-08-08,78.5,6.83,Pending,30000,2,No
+MITRC00114,Ananya Malhotra,Mechanical,M.Tech,7,4,A,ananya.malhotra114@mitrc.ac.in,9977130288,2002-10-05,93.4,5.72,Pending,45000,4,Yes
+MITRC00115,Myra Joshi,Computer Science,M.Tech,2,1,A,myra.joshi115@mitrc.ac.in,9392907427,2004-09-05,91.6,5.89,Paid,0,3,No
+MITRC00116,Saanvi Sharma,Civil,B.Tech,7,4,C,saanvi.sharma116@mitrc.ac.in,9501538092,2002-07-03,71.5,5.62,Paid,0,5,No
+MITRC00117,Priya Gupta,Electronics,B.Tech,5,3,B,priya.gupta117@mitrc.ac.in,9847401602,2002-12-16,74.7,5.52,Paid,0,0,No
+MITRC00118,Vihaan Gupta,AI & ML,M.Tech,2,1,B,vihaan.gupta118@mitrc.ac.in,9355164255,2003-02-02,65.5,8.25,Partially Paid,60000,0,Yes
+MITRC00119,Riya Mehta,AI & ML,B.Tech,4,2,C,riya.mehta119@mitrc.ac.in,9254164462,2003-07-01,82.1,6.53,Pending,30000,5,Yes
+MITRC00120,Diya Patel,Computer Science,B.Tech,7,4,B,diya.patel120@mitrc.ac.in,9146744734,2006-07-12,66.2,5.57,Paid,0,2,Yes
+MITRC00121,Myra Rao,Data Science,B.Tech,6,3,A,myra.rao121@mitrc.ac.in,9147605080,2003-09-11,90.8,6.25,Partially Paid,60000,5,No
+MITRC00122,Kavya Gupta,Electronics,B.Tech,8,4,A,kavya.gupta122@mitrc.ac.in,9415081566,2002-01-26,63.8,5.68,Pending,60000,4,No
+MITRC00123,Arjun Sharma,Data Science,B.Tech,5,3,B,arjun.sharma123@mitrc.ac.in,9938422254,2001-11-11,67.0,8.94,Pending,60000,5,No
+MITRC00124,Saanvi Reddy,Mechanical,B.Tech,8,4,C,saanvi.reddy124@mitrc.ac.in,9634211672,2003-09-09,90.3,8.63,Paid,0,3,Yes
+MITRC00125,Diya Kumar,Mechanical,B.Tech,2,1,B,diya.kumar125@mitrc.ac.in,9809656613,2003-05-15,81.5,7.33,Partially Paid,60000,2,No
+MITRC00126,Aarav Chauhan,Mechanical,M.Tech,5,3,C,aarav.chauhan126@mitrc.ac.in,9949842840,2001-02-22,83.1,7.06,Partially Paid,30000,0,Yes
+MITRC00127,Riya Nair,Data Science,M.Tech,1,1,A,riya.nair127@mitrc.ac.in,9172191273,2002-11-12,70.9,9.58,Paid,0,4,Yes
+MITRC00128,Kavya Mehta,Mechanical,M.Tech,8,4,A,kavya.mehta128@mitrc.ac.in,9716243819,2002-09-12,72.5,8.29,Paid,0,0,Yes
+MITRC00129,Myra Gupta,Civil,M.Tech,2,1,B,myra.gupta129@mitrc.ac.in,9932111777,2003-12-15,64.4,8.13,Partially Paid,60000,1,Yes
+MITRC00130,Aditya Verma,Civil,B.Tech,8,4,A,aditya.verma130@mitrc.ac.in,9970281936,2006-06-22,70.3,5.78,Partially Paid,45000,2,Yes
+MITRC00131,Myra Chauhan,Data Science,B.Tech,6,3,C,myra.chauhan131@mitrc.ac.in,9340777602,2001-04-26,61.1,8.9,Paid,0,2,No
+MITRC00132,Ananya Malhotra,AI & ML,B.Tech,2,1,A,ananya.malhotra132@mitrc.ac.in,9432098383,2004-12-24,76.1,7.27,Pending,15000,1,No
+MITRC00133,Kavya Verma,Civil,M.Tech,6,3,A,kavya.verma133@mitrc.ac.in,9990189659,2005-11-19,63.0,9.65,Pending,15000,0,Yes
+MITRC00134,Arjun Gupta,Electronics,M.Tech,4,2,B,arjun.gupta134@mitrc.ac.in,9657162259,2003-02-09,63.6,9.61,Pending,30000,5,No
+MITRC00135,Ishita Joshi,Computer Science,B.Tech,3,2,A,ishita.joshi135@mitrc.ac.in,9807309035,2005-12-20,69.9,9.47,Paid,0,0,Yes
+MITRC00136,Aarav Rao,AI & ML,M.Tech,4,2,C,aarav.rao136@mitrc.ac.in,9547306651,2005-11-01,76.9,8.2,Pending,45000,3,Yes
+MITRC00137,Priya Malhotra,Data Science,M.Tech,5,3,B,priya.malhotra137@mitrc.ac.in,9178354184,2006-01-06,74.3,7.58,Paid,0,2,Yes
+MITRC00138,Sai Chauhan,Mechanical,M.Tech,7,4,A,sai.chauhan138@mitrc.ac.in,9916757816,2003-09-18,59.7,6.54,Paid,0,2,No
+MITRC00139,Vihaan Gupta,Computer Science,B.Tech,5,3,B,vihaan.gupta139@mitrc.ac.in,9760756497,2004-04-28,94.7,9.0,Partially Paid,45000,1,Yes
+MITRC00140,Ananya Joshi,Civil,M.Tech,5,3,B,ananya.joshi140@mitrc.ac.in,9124885365,2001-07-17,75.1,6.54,Partially Paid,45000,0,Yes
+MITRC00141,Arjun Mehta,AI & ML,M.Tech,5,3,C,arjun.mehta141@mitrc.ac.in,9108780419,2001-07-05,93.8,8.63,Pending,45000,0,No
+MITRC00142,Aarav Nair,AI & ML,B.Tech,6,3,C,aarav.nair142@mitrc.ac.in,9409883716,2001-07-17,74.8,7.86,Partially Paid,15000,1,Yes
+MITRC00143,Reyansh Patel,Mechanical,M.Tech,3,2,A,reyansh.patel143@mitrc.ac.in,9746889670,2005-07-17,56.8,5.67,Partially Paid,45000,3,No
+MITRC00144,Aditya Nair,AI & ML,B.Tech,6,3,C,aditya.nair144@mitrc.ac.in,9442019016,2002-07-20,87.5,6.79,Pending,60000,5,No
+MITRC00145,Ananya Sharma,Mechanical,M.Tech,2,1,B,ananya.sharma145@mitrc.ac.in,9726745401,2003-12-28,85.3,5.61,Pending,45000,5,Yes
+MITRC00146,Myra Sharma,AI & ML,M.Tech,3,2,C,myra.sharma146@mitrc.ac.in,9775410705,2006-10-25,92.0,6.14,Partially Paid,30000,0,Yes
+MITRC00147,Vihaan Sharma,Civil,M.Tech,7,4,A,vihaan.sharma147@mitrc.ac.in,9543412542,2006-04-14,77.1,8.13,Pending,15000,5,Yes
+MITRC00148,Diya Singh,AI & ML,M.Tech,8,4,C,diya.singh148@mitrc.ac.in,9504612520,2003-03-15,95.1,6.97,Pending,45000,4,No
+MITRC00149,Vihaan Singh,Mechanical,M.Tech,4,2,B,vihaan.singh149@mitrc.ac.in,9928042067,2003-12-07,85.4,7.6,Pending,45000,4,No
+MITRC00150,Arjun Verma,AI & ML,M.Tech,7,4,B,arjun.verma150@mitrc.ac.in,9930071496,2002-05-02,67.7,8.57,Pending,60000,5,No
+MITRC00151,Myra Mehta,Electronics,B.Tech,5,3,C,myra.mehta151@mitrc.ac.in,9847508242,2003-03-04,82.1,8.02,Paid,0,0,Yes
+MITRC00152,Kavya Singh,Computer Science,B.Tech,7,4,B,kavya.singh152@mitrc.ac.in,9870257350,2004-02-22,88.9,5.52,Partially Paid,30000,3,No
+MITRC00153,Ananya Rao,Electronics,M.Tech,6,3,B,ananya.rao153@mitrc.ac.in,9793527609,2001-02-21,80.3,7.8,Partially Paid,15000,1,No
+MITRC00154,Saanvi Gupta,Computer Science,M.Tech,8,4,A,saanvi.gupta154@mitrc.ac.in,9904236062,2003-01-01,68.1,8.09,Pending,45000,3,No
+MITRC00155,Saanvi Gupta,AI & ML,M.Tech,5,3,A,saanvi.gupta155@mitrc.ac.in,9968457290,2001-06-06,87.2,8.29,Partially Paid,30000,0,No
+MITRC00156,Priya Kumar,AI & ML,B.Tech,3,2,C,priya.kumar156@mitrc.ac.in,9785826598,2004-07-17,69.4,7.22,Paid,0,1,Yes
+MITRC00157,Ananya Patel,Electronics,B.Tech,5,3,B,ananya.patel157@mitrc.ac.in,9352889019,2004-05-11,68.3,8.61,Paid,0,2,No
+MITRC00158,Myra Singh,Computer Science,B.Tech,8,4,B,myra.singh158@mitrc.ac.in,9271494637,2004-11-17,95.6,9.32,Pending,15000,5,No
+MITRC00159,Sai Nair,Electronics,B.Tech,3,2,B,sai.nair159@mitrc.ac.in,9264481748,2004-12-20,71.4,8.52,Pending,30000,1,Yes
+MITRC00160,Diya Mehta,AI & ML,M.Tech,2,1,C,diya.mehta160@mitrc.ac.in,9220483278,2001-09-17,63.9,7.81,Paid,0,2,No
+MITRC00161,Vivaan Rao,Electronics,M.Tech,2,1,C,vivaan.rao161@mitrc.ac.in,9578333394,2001-08-05,77.6,7.46,Paid,0,4,No
+MITRC00162,Kavya Malhotra,Mechanical,B.Tech,7,4,B,kavya.malhotra162@mitrc.ac.in,9976659977,2001-12-07,80.4,5.69,Pending,15000,4,Yes
+MITRC00163,Saanvi Verma,Civil,B.Tech,5,3,B,saanvi.verma163@mitrc.ac.in,9293253475,2002-11-24,83.4,7.31,Pending,60000,3,No
+MITRC00164,Vivaan Rao,Data Science,B.Tech,6,3,A,vivaan.rao164@mitrc.ac.in,9291634595,2005-07-17,60.6,9.71,Paid,0,0,No
+MITRC00165,Ananya Rao,Data Science,M.Tech,7,4,A,ananya.rao165@mitrc.ac.in,9365764028,2004-06-05,67.1,9.53,Partially Paid,15000,0,No
+MITRC00166,Ishita Malhotra,Computer Science,B.Tech,4,2,A,ishita.malhotra166@mitrc.ac.in,9208337018,2005-01-15,81.3,8.52,Paid,0,1,Yes
+MITRC00167,Reyansh Mehta,Electronics,B.Tech,1,1,A,reyansh.mehta167@mitrc.ac.in,9641054044,2003-04-27,95.3,7.98,Partially Paid,45000,1,No
+MITRC00168,Saanvi Gupta,Data Science,B.Tech,7,4,B,saanvi.gupta168@mitrc.ac.in,9395444277,2001-09-19,93.7,9.42,Partially Paid,60000,4,No
+MITRC00169,Aarav Patel,Data Science,M.Tech,6,3,C,aarav.patel169@mitrc.ac.in,9547025173,2004-03-10,71.6,8.74,Pending,30000,1,No
+MITRC00170,Riya Chauhan,Electronics,M.Tech,1,1,C,riya.chauhan170@mitrc.ac.in,9543109075,2004-09-17,60.9,6.54,Paid,0,2,Yes
+MITRC00171,Saanvi Mehta,Mechanical,B.Tech,4,2,A,saanvi.mehta171@mitrc.ac.in,9388258432,2004-11-20,81.5,9.26,Paid,0,4,Yes
+MITRC00172,Ananya Singh,Mechanical,M.Tech,1,1,A,ananya.singh172@mitrc.ac.in,9304036387,2006-02-24,99.0,7.56,Paid,0,5,Yes
+MITRC00173,Reyansh Singh,AI & ML,M.Tech,5,3,B,reyansh.singh173@mitrc.ac.in,9600632621,2005-11-12,68.6,7.05,Pending,60000,0,No
+MITRC00174,Priya Patel,Electronics,M.Tech,6,3,B,priya.patel174@mitrc.ac.in,9149086585,2005-04-24,61.4,6.62,Partially Paid,60000,2,Yes
+MITRC00175,Vihaan Patel,Electronics,M.Tech,4,2,B,vihaan.patel175@mitrc.ac.in,9691247918,2006-11-11,66.3,9.03,Partially Paid,60000,3,Yes
+MITRC00176,Myra Malhotra,Mechanical,B.Tech,3,2,C,myra.malhotra176@mitrc.ac.in,9686849648,2004-03-18,98.6,9.62,Partially Paid,15000,0,Yes
+MITRC00177,Priya Sharma,Civil,B.Tech,4,2,A,priya.sharma177@mitrc.ac.in,9859317542,2002-01-07,77.3,7.1,Partially Paid,60000,5,No
+MITRC00178,Aarav Sharma,AI & ML,M.Tech,1,1,A,aarav.sharma178@mitrc.ac.in,9668457864,2006-05-18,98.0,5.57,Partially Paid,60000,1,Yes
+MITRC00179,Saanvi Verma,AI & ML,B.Tech,4,2,A,saanvi.verma179@mitrc.ac.in,9765484610,2005-05-27,70.6,8.92,Paid,0,2,No
+MITRC00180,Ananya Nair,Electronics,B.Tech,5,3,C,ananya.nair180@mitrc.ac.in,9989124880,2001-11-28,83.6,5.64,Pending,60000,3,No
+MITRC00181,Aarav Rao,Computer Science,B.Tech,2,1,B,aarav.rao181@mitrc.ac.in,9565906941,2006-06-19,98.0,9.69,Partially Paid,15000,1,Yes
+MITRC00182,Saanvi Chauhan,AI & ML,M.Tech,5,3,A,saanvi.chauhan182@mitrc.ac.in,9179830621,2006-05-18,79.8,5.64,Pending,15000,1,Yes
+MITRC00183,Priya Chauhan,Civil,B.Tech,5,3,A,priya.chauhan183@mitrc.ac.in,9705545509,2002-10-27,92.4,8.41,Partially Paid,45000,3,Yes
+MITRC00184,Priya Chauhan,Data Science,B.Tech,6,3,A,priya.chauhan184@mitrc.ac.in,9204889313,2004-04-27,58.3,8.1,Partially Paid,60000,2,Yes
+MITRC00185,Kavya Kumar,Civil,M.Tech,4,2,B,kavya.kumar185@mitrc.ac.in,9693819730,2004-07-06,84.9,8.34,Paid,0,4,No
+MITRC00186,Priya Singh,Data Science,B.Tech,2,1,B,priya.singh186@mitrc.ac.in,9265593497,2004-12-26,82.9,8.68,Pending,45000,0,Yes
+MITRC00187,Aarav Kumar,Civil,M.Tech,5,3,A,aarav.kumar187@mitrc.ac.in,9242278314,2001-03-14,74.7,7.89,Pending,15000,0,Yes
+MITRC00188,Sai Joshi,Computer Science,M.Tech,7,4,A,sai.joshi188@mitrc.ac.in,9413368711,2004-07-25,58.7,9.37,Paid,0,4,Yes
+MITRC00189,Kavya Reddy,Electronics,B.Tech,5,3,B,kavya.reddy189@mitrc.ac.in,9388199600,2004-03-03,62.4,6.69,Pending,60000,0,No
+MITRC00190,Arjun Singh,Data Science,M.Tech,4,2,B,arjun.singh190@mitrc.ac.in,9214860711,2002-05-01,96.7,6.93,Partially Paid,60000,2,No
+MITRC00191,Sai Reddy,Data Science,B.Tech,5,3,B,sai.reddy191@mitrc.ac.in,9747693166,2006-04-16,68.8,9.65,Pending,45000,5,No
+MITRC00192,Ishita Malhotra,Electronics,M.Tech,7,4,B,ishita.malhotra192@mitrc.ac.in,9976704309,2004-06-04,96.0,6.36,Partially Paid,30000,5,Yes
+MITRC00193,Myra Mehta,Data Science,B.Tech,8,4,B,myra.mehta193@mitrc.ac.in,9992582047,2006-02-27,92.3,8.92,Partially Paid,60000,1,No
+MITRC00194,Vihaan Kumar,Data Science,B.Tech,7,4,B,vihaan.kumar194@mitrc.ac.in,9179419456,2004-10-16,80.6,7.8,Partially Paid,60000,4,Yes
+MITRC00195,Priya Patel,Data Science,B.Tech,2,1,A,priya.patel195@mitrc.ac.in,9806094391,2006-06-06,83.5,5.69,Partially Paid,60000,2,No
+MITRC00196,Vivaan Sharma,Computer Science,M.Tech,4,2,C,vivaan.sharma196@mitrc.ac.in,9901927335,2005-09-19,85.3,6.45,Pending,60000,3,Yes
+MITRC00197,Sai Sharma,Civil,B.Tech,5,3,B,sai.sharma197@mitrc.ac.in,9192185888,2001-12-05,70.3,6.98,Paid,0,4,No
+MITRC00198,Sai Mehta,Computer Science,M.Tech,8,4,B,sai.mehta198@mitrc.ac.in,9172127903,2003-01-26,86.3,5.6,Pending,15000,5,Yes
+MITRC00199,Saanvi Chauhan,Electronics,B.Tech,3,2,B,saanvi.chauhan199@mitrc.ac.in,9701133236,2004-08-08,90.1,8.21,Paid,0,5,No
+MITRC00200,Reyansh Sharma,Data Science,B.Tech,8,4,C,reyansh.sharma200@mitrc.ac.in,9561228852,2004-01-23,64.5,6.7,Partially Paid,15000,4,Yes
